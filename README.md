@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/4b01f279-be0f-4757-a002-963c4767e674
+
 # Sistema preditivo agrícola para as 30 maiores cidades produtora de SOJA
 
 ## Objetivo do Projeto
